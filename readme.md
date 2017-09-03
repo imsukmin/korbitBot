@@ -6,7 +6,7 @@
 
 ``` bash
 git clone https://github.com/imsukmin/korbitBot.git
-cd korbitTelegramBot
+cd korbitBot
 npm install
 cp config/index.sample.js config/index.js
 # 아래의 추가과정 1 적용
