@@ -20,7 +20,7 @@ node server.js
 
 이 프로그램을 실행 해보기전에 Telegram 내의 @botfather를 이용하여 봇을 생성해야합니다.
 
-- 탤레그램을 실행시키고 검색창에 [`@korbitBot`](http://t.me/korbitBot)라고 검색하면 봇파더를 찾을 수 있습니다. 
+- 탤레그램을 실행시키고 검색창에 `@botfather`라고 검색하면 봇파더를 찾을 수 있습니다. 
 
 - 봇파더를 이용하여 봇을 생성하면 `Use this token to access the HTTP API:`라는 문구 아래 봇의 토큰이 있습니다.
 
